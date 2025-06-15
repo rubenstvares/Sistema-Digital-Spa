@@ -111,8 +111,14 @@ Ao rodar o sistema, será exibido um menu:
 1. Cadastrar Cliente
 2. Editar Cliente
 3. Remover Cliente
-4. Sair
+4. Pesquisar Cliente por Telefone
+5. Sair
 ```
+- Deliverables:
+
+Gerenciamento de Tarefas: O planejamento e acompanhamento das tarefas foram realizados através do Trello. O link do board pode ser encontrado AQUI.
+
+https://trello.com/invite/b/684ed370bbffc1a0713d395b/ATTI1ffb94898214e8295a74757857b4dcb82463E7D5/projeto-programacao-de-solucoes-computacionais-a3
 
 📜 Licença
 - Projeto acadêmico sem fins lucrativos. Livre para fins educacionais.
