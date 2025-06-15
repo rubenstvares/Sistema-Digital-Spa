@@ -61,7 +61,7 @@ src/
 ```
 🧪 Banco de Dados - MySQL
 
-📋 Script de Criação:
+- Script de Criação:
 
 ```sql
 CREATE DATABASE IF NOT EXISTS sistema_clientes;
@@ -84,25 +84,27 @@ CREATE TABLE IF NOT EXISTS clientes (
 Abra o arquivo:
 
 📁 src/main/java/br/com/faseh/cadastroclientes/util/Conexao.java
-
+```
 private static final String URL = "jdbc:mysql://localhost:3306/sistema_clientes";
 private static final String USER = "root";
 private static final String PASSWORD = "SUA_SENHA_AQUI";
-
+```
 🧰 Como Rodar o Projeto
-Clone o repositório ou baixe os arquivos
 
-Abra o projeto com o IntelliJ IDEA
+- Clone o repositório ou baixe os arquivos
 
-Aguarde o Maven baixar as dependências
+- Abra o projeto com o IntelliJ IDEA
 
-Execute o script SQL no MySQL
+- Aguarde o Maven baixar as dependências
 
-Configure sua senha de acesso no arquivo Conexao.java
+- Execute o script SQL no MySQL
 
-Rode a classe Main.java
+- Configure sua senha de acesso no arquivo Conexao.java
+
+- Rode a classe Main.java
 
 🎮 Como Usar
+```
 Ao rodar o sistema, será exibido um menu:
 
 ==== Sistema de Cadastro Digital ====
@@ -110,6 +112,7 @@ Ao rodar o sistema, será exibido um menu:
 2. Editar Cliente
 3. Remover Cliente
 4. Sair
+```
 
 📜 Licença
-Projeto acadêmico sem fins lucrativos. Livre para fins educacionais.
+- Projeto acadêmico sem fins lucrativos. Livre para fins educacionais.
