@@ -42,7 +42,8 @@ O sistema visa substituir o controle manual de clientes por uma solução backen
 
  🗂 Estrutura do Projeto
  
- src/
+```
+src/
 ├── main/
 │ ├── java/
 │ │ └── br/com/faseh/cadastroclientes/
@@ -57,7 +58,7 @@ O sistema visa substituir o controle manual de clientes por uma solução backen
 │ │ └── util/
 │ │ └── Conexao.java
 └── pom.xm
-
+```
 🧪 Banco de Dados - MySQL
 
 📋 Script de Criação:
@@ -76,7 +77,7 @@ CREATE TABLE IF NOT EXISTS clientes (
     criado_em TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     atualizado_em TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 );
-
+````
 ⚠ Certifique-se de que o MySQL esteja ativo e que você saiba a senha do usuário root.
 
 - ⚙ Configuração da Conexão com o Banco
