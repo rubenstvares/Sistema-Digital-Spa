@@ -91,7 +91,9 @@ private static final String PASSWORD = "SUA_SENHA_AQUI";
 ```
 🧰 Como Rodar o Projeto
 
-- Clone o repositório ou baixe os arquivos
+- Clone o repositório ou baixe o arquivo "CadastroDigitalSpa.zip"
+
+- extraia o documento
 
 - Abra o projeto com o IntelliJ IDEA
 
