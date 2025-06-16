@@ -59,6 +59,7 @@ src/
 │ │ └── Conexao.java
 └── pom.xm
 ```
+---
 🧪 Banco de Dados - MySQL
 
 - Script de Criação:
@@ -80,6 +81,7 @@ CREATE TABLE IF NOT EXISTS clientes (
 ````
 ⚠ Certifique-se de que o MySQL esteja ativo e que você saiba a senha do usuário root.
 
+---
 - ⚙ Configuração da Conexão com o Banco
 Abra o arquivo:
 
@@ -89,6 +91,7 @@ private static final String URL = "jdbc:mysql://localhost:3306/sistema_clientes?
 private static final String USER = "root";
 private static final String PASSWORD = "SUA_SENHA_AQUI";
 ```
+---
 🧰 Como Rodar o Projeto
 
 - Clone o repositório ou baixe o arquivo "CadastroDigitalSpa"
@@ -103,6 +106,7 @@ private static final String PASSWORD = "SUA_SENHA_AQUI";
 
 - Rode a classe MainGUI.java
 
+---
 🎮 Como Usar
 ```
 Ao rodar o sistema, será exibido um menu:
@@ -114,6 +118,7 @@ Ao rodar o sistema, será exibido um menu:
 4. Pesquisar Cliente por Telefone
 5. Sair
 ```
+---
 - Deliverables:
 
 Gerenciamento de Tarefas: O planejamento e acompanhamento das tarefas foram realizados através do Trello. O link do board pode ser encontrado AQUI.
