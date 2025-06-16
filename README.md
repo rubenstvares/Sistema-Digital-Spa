@@ -85,7 +85,7 @@ Abra o arquivo:
 
 📁 src/main/java/br/com/faseh/cadastroclientes/util/Conexao.java
 ```
-private static final String URL = "jdbc:mysql://localhost:3306/sistema_clientes";
+private static final String URL = "jdbc:mysql://localhost:3306/sistema_clientes?allowPublicKeyRetrieval=TRUE";
 private static final String USER = "root";
 private static final String PASSWORD = "SUA_SENHA_AQUI";
 ```
