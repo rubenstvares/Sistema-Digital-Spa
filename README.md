@@ -125,7 +125,7 @@ Gerenciamento de Tarefas: O planejamento e acompanhamento das tarefas foram real
 
 https://trello.com/invite/b/684ed370bbffc1a0713d395b/ATTI1ffb94898214e8295a74757857b4dcb82463E7D5/projeto-programacao-de-solucoes-computacionais-a3
 
-Apoio Visual: O Apoio visual, com as telas de funcionamento do sistema estão disponibilizados no Drive abaixo.
+Drive de entrega Final: Drive contendo a Documentação final com as especificações do sistema e O Apoio visual, com as telas de funcionamento do sistema estão disponibilizados no Drive abaixo.
 
 https://drive.google.com/drive/folders/10SD2_BdHbuw5V7pF4g-c09L0UwV5c5-g?usp=sharing
 ---
