@@ -103,7 +103,7 @@ private static final String PASSWORD = "SUA_SENHA_AQUI";
 
 - Configure sua senha de acesso no arquivo Conexao.java
 
-- Rode a classe Main.java
+- Rode a classe MainGUI.java
 
 🎮 Como Usar
 ```
