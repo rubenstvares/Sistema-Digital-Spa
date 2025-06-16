@@ -1,17 +1,17 @@
 # Sistema-Digital-Spa
 Este é um projeto acadêmico desenvolvido para a disciplina de Programação de Soluções Computacionais da FASEH. O objetivo é criar o backend para um sistema de gestão de clientes para a empresa SPA Space Wellness, focando na digitalização e otimização de seus processos de cadastro.
-
+---
 👥 Equipe
 
 Líder do Projeto: Rubens
 Desenvolvedor: Luan
 Desenvolvedor: Caio
 Desenvolvedor: Bruno
-
+---
 🎯 Objetivo do Projeto:
 
 O sistema visa substituir o controle manual de clientes por uma solução backend em Java, proporcionando uma forma ágil e segura de gerenciar as informações. O escopo deste projeto está focado em um único módulo: o Cadastro de Clientes.
-
+---
 🚀 Funcionalidades Implementadas
 
 ✅ [RF001] Cadastro de clientes  
@@ -128,6 +128,7 @@ https://trello.com/invite/b/684ed370bbffc1a0713d395b/ATTI1ffb94898214e8295a74757
 Apoio Visual: O Apoio visual, com as telas de funcionamento do sistema estão disponibilizados no Drive abaixo.
 
 https://drive.google.com/drive/folders/10SD2_BdHbuw5V7pF4g-c09L0UwV5c5-g?usp=sharing
+---
 
 📜 Licença
 - Projeto acadêmico sem fins lucrativos. Livre para fins educacionais.
