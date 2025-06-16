@@ -3,10 +3,10 @@ Este é um projeto acadêmico desenvolvido para a disciplina de Programação de
 ---
 👥 Equipe
 
-Líder do Projeto: Rubens
-Desenvolvedor: Luan
-Desenvolvedor: Caio
-Desenvolvedor: Bruno
+- Líder do Projeto: Rubens
+- Desenvolvedor: Luan
+- Desenvolvedor: Caio
+- Desenvolvedor: Bruno
 ---
 🎯 Objetivo do Projeto:
 
